@@ -1,4 +1,4 @@
-# Twitch Data EXploration
+# Twitch Data Exploration
 ## by Mohannad Mahmoud Hassan
 
 
